@@ -2,6 +2,8 @@
 
 This repository contains an end-to-end data pipeline implemented using **Azure Synapse Notebooks** to ingest, process, and enrich **earthquake data** from the [USGS Earthquake API](https://earthquake.usgs.gov/fdsnws/event/1/). The pipeline is organized in a **multi-layered architecture (Bronze, Silver, and Gold)** and is executed daily to ensure a steady flow of fresh, near real-time data.
 
+![pipeline.png](images/pipeline.png)
+
 ---
 
 ## 📌 Project Structure
